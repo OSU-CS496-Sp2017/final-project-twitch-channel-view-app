@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Top Twitch Games</string>
+    <string name="game_list_activity_title">Top 10 Games</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_empty_card_message">Error: Games not found, Check Internet Connection than Refresh the list</string>
+    <string name="game_empty_reload">Update</string>
+
+
+    <!-- Game Details -->
+    <string name="game_details_activity_title">Game Details</string>
+    <string name="game_details_active_channels">Currrent Active Channels:</string>
+    <string name="game_details_views">Total Game Viewer Count:</string>
+    <string name="game_details_box">Game Image</string>
+    <string name="game_list_error_offline">Update List Error: Offline</string>
+</resources>
